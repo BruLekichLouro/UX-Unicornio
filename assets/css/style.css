@@ -6,7 +6,10 @@ Index:
 0.Reset
 1. Header
 2. General
-3.
+3.Cities
+4.Table-of-Contents
+5.Stats
+6.Footer
 -------------------------*/
 
 /*-------------------------
@@ -67,7 +70,7 @@ table {
 1. Header
 -------------------------*/
 
-header{
+header #hero{
 
 }
 #header-logo{
@@ -90,4 +93,34 @@ nav{
 body{
     padding: 0px;
     margin: 0px;
+}
+#call-to-scroll{
+
+}
+/*-------------------------
+3. Cities
+-------------------------*/
+#cities{
+
+}
+
+/*-------------------------
+4. Table-of-contents
+-------------------------*/
+#table-of-contents{
+
+}
+
+/*-------------------------
+5. Stats
+-------------------------*/
+#stats{
+
+}
+
+/*-------------------------
+6. Footer
+-------------------------*/
+#footer{
+
 }
