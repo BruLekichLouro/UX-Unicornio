@@ -2,11 +2,10 @@
 
 Recriando a página do curso UX Unicórnio:unicorn: de UX/UI Design para utilizar :
 
-* [HTML básico](https://www.w3schools.com/html/)
+* [HTML](https://www.w3schools.com/html/)
 
-* [CSS básico](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/html/)
 
 * [Framework Materialize](https://www.w3schools.com/html/)
 
   
-
