@@ -38,6 +38,9 @@ a.brand-logo{
 #value-proposition a{
 	color: #B633BF;
 }
+#value-proposition .col{
+	padding: 0px;
+}
 
 /*-------------------------
 2. General
@@ -48,6 +51,10 @@ body{
 }
 #call-to-scroll{
 
+}
+::selection{
+	background: #ffee58;
+	color: #ff00af;
 }
 /*-------------------------
 3. Cities
