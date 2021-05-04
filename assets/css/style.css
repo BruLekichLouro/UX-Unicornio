@@ -31,14 +31,17 @@ nav{
 #hero-subtitle{
 
 }
+a.brand-logo{
+	font-size: 24px;
+	font-weight: 500;
+}
 
 /*-------------------------
 2. General
 -------------------------*/
 
 body{
-    padding: 0px;
-    margin: 0px;
+    font-family: 'Poppins', sans-serif;
 }
 #call-to-scroll{
 
