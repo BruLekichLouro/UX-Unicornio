@@ -72,6 +72,20 @@ body{
 	background: #ffee58;
 	color: #ff00af;
 }
+h1{
+
+}
+h4{
+	font-size: 24px;
+	line-height: 32px;
+	font-weight: 600;
+	text-align: left;
+	color: #ff00af;
+	margin-bottom: 32px;
+}
+h5{
+
+}
 /*-------------------------
 3. Cities
 -------------------------*/
