@@ -1,6 +1,6 @@
 # Testando o framework Materialize:pencil:
 
-Recriando a página do curso UX Unicórnio:unicorn: de UX/UI Design para utilizar :
+Recriando a página do curso UX Unicórnio:unicorn: de UX/UI Design utilizando :
 
 * [HTML](https://www.w3schools.com/html/)
 
