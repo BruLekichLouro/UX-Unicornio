@@ -1,4 +1,4 @@
-# Testando o framework Materialize:pencil:
+# Utilizando o framework Materialize:pencil:
 
 Recriando a página do curso UX Unicórnio:unicorn: de UX/UI Design utilizando :
 
