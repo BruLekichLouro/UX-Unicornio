@@ -100,13 +100,16 @@ h5{
 4. Table-of-contents
 -------------------------*/
 #table-of-contents{
-
+	background: #FFF6FF;
 }
 table-of-contents-title{
 
 }
 table-of-contents-subtitle{
     
+}
+#table-of-contents-content{
+	background: #FFF;
 }
 
 /*-------------------------
