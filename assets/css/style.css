@@ -87,6 +87,7 @@ a.brand-logo{
 
 body{
     font-family: 'Poppins', sans-serif;
+	color: #60495f;
 }
 #call-to-scroll{
 
@@ -115,6 +116,15 @@ h5{
 	margin-bottom: 3px;
 	font-weight: 400;
 }
+p {
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
+	text-align: left;
+	color: #60495f;
+	margin-bottom: 32px;
+}
+
 /*-------------------------
 3. Cities
 -------------------------*/
@@ -142,16 +152,43 @@ h5{
 -------------------------*/
 #table-of-contents{
 	background: #FFF6FF;
+	padding: 24px 0px;
 }
-table-of-contents-title{
-
+.table-of-contents-title{
+	margin-top: 24px;
 }
-table-of-contents-subtitle{
+.table-of-contents-title h4{
+	margin-bottom: -8px;
+}
+.table-of-contents-subtitle p {
+	margin-bottom: 32px;
+}
+.table-of-contents-subtitle{
     
 }
+
 .table-of-contents-content{
 	background: #FFF;
 }
+.table-of-contents-content-title{
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 24px;
+	text-align: left;
+	padding: 16px 16px 0px 16px;
+}
+.table-of-contents-content-title-items {
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 150%;
+	text-align: left;
+	padding: 0px 16px;
+	margin-left: 32px;
+}
+.table-of-contents-content-title-items li{
+	padding: 4px 0px;
+}
+
 
 /*-------------------------
 5. Stats
