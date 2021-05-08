@@ -61,7 +61,7 @@ a.brand-logo{
 	padding: 0px;
 }
 #background-map{
-	background-image: url(..img/mapa.svg);
+	background-image: url(../img/mapa.svg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% -100px;
