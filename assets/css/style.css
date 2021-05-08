@@ -40,11 +40,12 @@ nav{
 	box-shadow: none;
 
 }
-#header-title{
+#header-title h1 { 
+	margin-bottom: -4px;
 
 }
-#hero-subtitle{
-
+#hero-subtitle h5 {
+	margin-bottom: 24px;
 }
 a.brand-logo{
 	font-size: 24px;
@@ -56,6 +57,7 @@ a.brand-logo{
 
 #value-proposition a{
 	color: #B633BF;
+	font-weight: 600;
 }
 #value-proposition .col{
 	padding: 0px;
@@ -66,7 +68,18 @@ a.brand-logo{
 	background-attachment: fixed;
 	background-position: 75% -100px;
 }
-
+#call-to-scroll {
+	color: #ff00af;
+	font-size: 16px;
+	font-weight: 600;
+}
+#call-to-scroll .cta {
+	margin-bottom: -12px;
+	margin-top: 24px;
+}
+#call-to-scroll i {
+	font-size: 50px;
+}
 
 /*-------------------------
 2. General
@@ -110,6 +123,18 @@ h5{
 }
 #cities-title{
 
+}
+.card-action a {
+	background: #fe03b0;
+	color: #FFF;
+	font-weight: 400;
+	font-size: 16px;
+}
+.card-action a:hover {
+	background: #9a259f;
+	color: #FFF;
+	font-weight: 400;
+	font-size: 16px;
 }
 
 /*-------------------------
