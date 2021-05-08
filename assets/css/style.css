@@ -186,6 +186,14 @@ table-of-contents-subtitle{
 /*-------------------------
 6. Footer
 -------------------------*/
-#footer{
+
+.page-footer {
+	background: #2989d8; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #2989d8 0%, #207cca 0%, #207cca 1%, #1e5799 1%, #ac3ecf 1%, #ff00af 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  #2989d8 0%,#207cca 0%,#207cca 1%,#1e5799 1%,#ac3ecf 1%,#ff00af 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  #2989d8 0%,#207cca 0%,#207cca 1%,#1e5799 1%,#ac3ecf 1%,#ff00af 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2989d8', endColorstr='#ff00af',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	-webkit-box-shadow: none;
+	box-shadow: none;
 
 }
